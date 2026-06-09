@@ -1,0 +1,32 @@
+[{
+  "_id": 1,
+  "titulo": "Java - Como Programar",
+  "ano": 2010,
+  "quantidade_estoque": 150,
+  "categoria": {
+    "id_categoria": 2,
+    "nome": "Tecnologia"
+  },
+  "autores": [
+    {
+      "id_autor": 1,
+      "nome": "Paul Deitel"
+    }
+  ]
+},
+{
+  "_id": 2,
+  "titulo": "Algoritmos - Teoria e Prática",
+  "ano": 2019,
+  "quantidade_estoque": 3,
+  "categoria": {
+    "id_categoria": 2,
+    "nome": "Tecnologia"
+  },
+  "autores": [
+    {
+      "id_autor": 2,
+      "nome": "Thomas Cormen"
+    }
+  ]
+}]

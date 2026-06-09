@@ -1,0 +1,12 @@
+[{
+  "_id": 2,
+  "nome": "Admin",
+  "email": "admin@email.com",
+  "tipo_usuario": "Administrador"
+},
+{
+  "_id": 1,
+  "nome": "Eriomar Kalieudes",
+  "email": "eriomar@email.com",
+  "tipo_usuario": "Aluno"
+}]
